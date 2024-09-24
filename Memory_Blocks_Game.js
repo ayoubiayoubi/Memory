@@ -118,6 +118,3 @@ box_grand.forEach(box =>{
 
 })
 
-// git config --global user.name "ayoubiayoubi"
-// git config --global user.email "ayoubiayoubi95959595@gmail.com"
-// git commit -m "I have added all the files to the local repository"
